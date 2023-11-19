@@ -1,0 +1,10 @@
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe.config
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\bin\Debug\CalcMedia.pdb
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.AssemblyReference.cache
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Form1.resources
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Properties.Resources.resources
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.GenerateResource.cache
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.exe
+C:\Users\Darsh\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.pdb

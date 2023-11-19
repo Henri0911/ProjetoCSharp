@@ -1,0 +1,10 @@
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\bin\Debug\CalcularMedia.exe.config
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\bin\Debug\CalcularMedia.exe
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\bin\Debug\CalcularMedia.pdb
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\obj\Debug\CalcularMedia.csproj.AssemblyReference.cache
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\obj\Debug\CalcularMedia.Form1.resources
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\obj\Debug\CalcularMedia.Properties.Resources.resources
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\obj\Debug\CalcularMedia.csproj.GenerateResource.cache
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\obj\Debug\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\obj\Debug\CalcularMedia.exe
+C:\Users\Darsh\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\Documentos\Dev\ProjetoC#\CalcularMedia\obj\Debug\CalcularMedia.pdb

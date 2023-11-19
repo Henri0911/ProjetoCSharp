@@ -1,0 +1,10 @@
+C:\Users\Darsh\source\repos\Deposito\Deposito\obj\Debug\Deposito.csproj.AssemblyReference.cache
+C:\Users\Darsh\source\repos\Deposito\Deposito\obj\Debug\Deposito.Form1.resources
+C:\Users\Darsh\source\repos\Deposito\Deposito\obj\Debug\Deposito.Properties.Resources.resources
+C:\Users\Darsh\source\repos\Deposito\Deposito\obj\Debug\Deposito.csproj.GenerateResource.cache
+C:\Users\Darsh\source\repos\Deposito\Deposito\obj\Debug\Deposito.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\source\repos\Deposito\Deposito\bin\Debug\Deposito.exe.config
+C:\Users\Darsh\source\repos\Deposito\Deposito\bin\Debug\Deposito.exe
+C:\Users\Darsh\source\repos\Deposito\Deposito\bin\Debug\Deposito.pdb
+C:\Users\Darsh\source\repos\Deposito\Deposito\obj\Debug\Deposito.exe
+C:\Users\Darsh\source\repos\Deposito\Deposito\obj\Debug\Deposito.pdb

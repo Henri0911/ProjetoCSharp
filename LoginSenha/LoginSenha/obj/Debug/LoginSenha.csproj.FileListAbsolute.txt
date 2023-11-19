@@ -1,0 +1,15 @@
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\bin\Debug\LoginSenha.exe.config
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\bin\Debug\LoginSenha.exe
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\bin\Debug\LoginSenha.pdb
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.csproj.AssemblyReference.cache
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.Form1.resources
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.Form2.resources
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.Properties.Resources.resources
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.csproj.GenerateResource.cache
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.exe
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.pdb
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\bin\Debug\LoginSenha.exe.manifest
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\bin\Debug\LoginSenha.application
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.exe.manifest
+C:\Users\Darsh\source\repos\LoginSenha\LoginSenha\obj\Debug\LoginSenha.application
