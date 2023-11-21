@@ -1,0 +1,10 @@
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Form1.resources
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+D:\Darsh\Documents\Dev\TreinandoC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
